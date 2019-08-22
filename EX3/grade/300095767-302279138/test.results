@@ -1,0 +1,30 @@
+
+Test results for 300095767-302279138
+
+Test #1   : wrong output, -7
+Test #2   : wrong output, -7
+Test #3   : success
+Test #4   : success
+Test #5   : success
+Test #6   : success
+Test #7   : wrong output, -4
+Test #8   : wrong output, -4
+Test #9   : success
+Test #10  : success
+Test #11  : success
+Test #12  : success
+Test #13  : success
+Test #14  : success
+Test #15  : success
+Test #16  : success
+Test #17  : success
+Test #18  : wrong output, -5
+Test #19  : success
+Test #20  : success
+
+Automatic check: -27
+
+Automatic memory leaks check: 0
+Manual check   : -0 (manual submission has not been received)
+----------------
+Final grade    : 73

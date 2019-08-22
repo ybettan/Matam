@@ -1,0 +1,57 @@
+report locations
+trainer add ash -10 zurich
+trainer add ash 10 zurich
+trainer add ash -10 madrid
+report locations
+trainer add leon 100 paris
+trainer add carlos 150 madrid
+trainer add kim 0 pyongyang
+trainer add thomas 60 berlin
+trainer add vladimir 50 moscow
+report locations
+trainer add victor 50 moscow
+report locations
+trainer add leon 50 berlin
+trainer add leon 50 zurich
+trainer add leon -10 berlin
+report locations
+report trainer leon
+report trainer carlos
+report trainer thomas
+report trainer kim
+report trainer victor
+report trainer vladimir
+trainer go ash paris
+trainer go ash zurich
+trainer go kim zurich
+trainer go kim paris
+trainer go kim pyongyang
+trainer go thomas rome
+trainer go thomas zurich
+report locations
+trainer go leon london
+report locations
+trainer go leon paris
+report locations
+trainer go carlos paris
+report locations
+trainer go leon madrid
+report locations
+trainer go thomas paris
+report locations
+trainer go carlos berlin
+report locations
+trainer go victor beijing
+report locations
+trainer go vladimir berlin
+report locations
+trainer go victor moscow
+report locations
+trainer go victor beijing
+report locations
+report trainer leon
+report trainer carlos
+report trainer thomas
+report trainer kim
+report trainer victor
+report trainer vladimir

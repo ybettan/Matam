@@ -1,0 +1,62 @@
+trainer add leon 200 paris
+trainer add carlos 150 madrid
+trainer add kim 0 pyongyang
+trainer add thomas 60 berlin
+trainer add vladimir 50 moscow
+trainer add victor 50 moscow
+trainer go leon london
+trainer go leon paris
+trainer go carlos paris
+trainer go leon madrid
+trainer go thomas paris
+trainer go carlos berlin
+trainer go victor beijing
+trainer go vladimir berlin
+trainer go victor moscow
+trainer go victor beijing
+store add Potion 10 5
+store add POTION 10 5
+store add potion -10 -5
+store add potion 10 -5
+store add potion 10 0
+store add potion -10 5
+store add potion 0 5
+store add POTION -10 5
+report stock
+store add potion 10 5
+store add potion 10 4
+store add potion 200 1
+store add potion 20 2
+store add candy 10 2
+store add candy 20 4
+store add candy 80 3
+report stock
+trainer purchase ash potion 10
+trainer purchase victor Potion 10
+trainer purchase ash Potion 10
+trainer purchase victor potion -10
+trainer purchase victor potion 27
+trainer purchase victor potion 200
+trainer purchase kim potion 20
+report stock
+report trainer victor
+report trainer kim
+trainer purchase leon potion 10
+trainer purchase leon potion 10
+trainer purchase carlos potion 10
+trainer purchase victor potion 10
+trainer purchase vladimir potion 10
+trainer purchase thomas potion 10
+report stock
+report trainer victor
+report trainer leon
+trainer purchase leon candy 10
+trainer purchase carlos candy 10
+trainer purchase victor candy 10
+report stock
+report trainer victor
+trainer purchase leon candy 80
+trainer purchase thomas candy 20
+report trainer leon
+report trainer thomas
+report stock

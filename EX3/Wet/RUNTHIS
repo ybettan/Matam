@@ -1,0 +1,48 @@
+#!/bin/bash
+count=0
+echo
+#echo "                                               0%"
+	
+    for((i = 1; i <= 11 ; i++)); do
+	
+ #       if (( $i == 500 )); then
+  #          echo "                                               20%"
+  #      fi
+
+   #     if (( $i == 1000 )); then
+   #         echo "                                               40%"
+   #     fi
+
+    #    if (( $i == 1500 )); then
+    #        echo "                                               60%"
+  #      fi
+
+   #     if (( $i == 2000 ));then
+   #         echo "                                               80%"
+   #     fi
+
+        if [[ -f test${i}.in ]]; then
+
+          ./pokemon_go_mtm -p pokedex.txt -e evolutions.txt -l locations.txt -i test${i}.in > temp.out 2> temp.err
+          res_out=(`diff out${i}.txt temp.out | wc -l`)
+          res_err=(`diff err${i}.txt temp.err | wc -l`)
+                                
+          if (( ( $res_out != 0 ) || ( $res_err != 0  )  )); then
+              echo test $i Failed
+              let count++
+          fi
+        fi
+    done
+
+    #echo "                                               100%"
+    if (( count == 0 )); then
+        echo
+        echo
+        echo ------------------------------------------------------------------------------------
+        echo --------------------Congratulations everything went well----------------------------
+        echo ------------------------------------------------------------------------------------
+        echo
+        echo
+    else
+        echo you have $count errors
+    fi

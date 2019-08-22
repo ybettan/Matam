@@ -1,0 +1,94 @@
+trainer add leon 200 paris
+trainer add carlos 150 madrid
+trainer add kim 0 pyongyang
+trainer add thomas 60 berlin
+trainer add vladimir 50 moscow
+trainer add victor 50 moscow
+trainer go leon london
+trainer go leon paris
+trainer go carlos paris
+trainer go leon madrid
+trainer go thomas paris
+trainer go carlos berlin
+trainer go victor beijing
+trainer go vladimir berlin
+trainer go victor moscow
+trainer go victor beijing
+store add potion 10 5
+store add potion 10 4
+store add potion 200 1
+store add potion 20 2
+store add candy 10 4
+store add candy 20 4
+store add candy 80 3
+trainer purchase victor candy 10
+trainer purchase victor candy 20
+trainer purchase victor potion 10
+trainer purchase victor potion 20
+trainer purchase carlos candy 10
+trainer purchase carlos potion 10
+trainer purchase leon candy 10
+trainer purchase leon potion 10
+trainer purchase leon candy 10
+trainer purchase leon potion 10
+trainer purchase vladimir potion 20
+trainer purchase carlos candy 20
+report trainer leon
+report trainer carlos
+report trainer kim
+report trainer thomas
+report trainer victor
+report trainer vladimir
+battle fight victor vladimir 1 1
+battle fight victor leon 2 1
+battle fight carlos vladimir 2 2
+battle fight thomas victor 1 1
+battle fight thomas carlos 1 1
+battle fight leon victor 4 4
+battle fight leon victor 3 3
+report trainer leon
+report trainer carlos
+report trainer kim
+report trainer thomas
+report trainer victor
+report trainer vladimir
+pokemon heal victor 1
+pokemon heal victor 2
+pokemon heal victor 3
+pokemon heal victor 4
+pokemon train victor 3
+pokemon train victor 2
+pokemon train victor 4
+pokemon train victor 1
+battle fight leon victor 3 4
+battle fight leon victor 4 3
+pokemon heal leon 2
+pokemon heal leon 3
+pokemon train leon 4
+pokemon train leon 1
+report trainer leon
+report trainer carlos
+report trainer kim
+report trainer thomas
+report trainer victor
+report trainer vladimir
+report locations
+trainer add aussie 1000 sydney
+battle fight aussie carlos 1 1
+battle fight aussie carlos 1 1
+trainer purchase aussie potion 10
+trainer purchase aussie potion 10
+trainer purchase aussie potion 10
+trainer purchase aussie potion 10
+trainer purchase aussie potion 10
+pokemon heal aussie 1
+pokemon heal aussie 1
+trainer purchase aussie potion 200
+battle fight aussie carlos 1 2
+pokemon heal aussie 1
+pokemon heal aussie 1
+trainer go thomas madrid
+report trainer thomas
+battle fight aussie thomas 1 2
+report trainer aussie
+report locations

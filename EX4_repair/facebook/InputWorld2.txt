@@ -1,0 +1,9 @@
+GYM holmes_place1
+STARBUCKS aroma1 pikachu 2.5 1 charmander 3 1 pikachu 4 2 charmander 3.2 7
+STARBUCKS aroma2 pikachu 2.5 1 charmander 3 1.0 pikachu 4 2 charmander 3.2 7
+STARBUCKS aroma3 pikachu 2.5 1 charmander 3.0 1 pikachu 4 2 charmander 3.2 7
+STARBUCKS aroma4
+POKESTOP shufersal1 POTION 10 POTION 3 CANDY 15 CANDY 14 POTION 2
+POKESTOP shufersal2 POTION 10 POTION 3.0 CANDY 15 CANDY 14 POTION 2
+POKESTOP shufersal3
+

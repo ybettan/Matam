@@ -1,0 +1,27 @@
+==6377== Memcheck, a memory error detector
+==6377== Copyright (C) 2002-2012, and GNU GPL'd, by Julian Seward et al.
+==6377== Using Valgrind-3.8.1 and LibVEX; rerun with -h for copyright info
+==6377== Command: ./run1 -p o_pokedex.in -e o_evolutions.in -l locations.in -i test1.in -o /dev/null
+==6377== 
+Error: location does not exist.
+Error: location does not exist.
+Error: invalid argument.
+Error: trainer name already used.
+Error: trainer name already used.
+Error: trainer name already used.
+Error: trainer does not exist.
+Error: trainer does not exist.
+Error: location does not exist.
+Error: location is not reachable.
+Error: trainer is already in specified location.
+Error: location is not reachable.
+Error: location does not exist.
+==6377== 
+==6377== HEAP SUMMARY:
+==6377==     in use at exit: 0 bytes in 0 blocks
+==6377==   total heap usage: 962 allocs, 962 frees, 19,877 bytes allocated
+==6377== 
+==6377== All heap blocks were freed -- no leaks are possible
+==6377== 
+==6377== For counts of detected and suppressed errors, rerun with: -v
+==6377== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 6 from 6)

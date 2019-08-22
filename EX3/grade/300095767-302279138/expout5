@@ -1,0 +1,238 @@
+leon captured a pidgey in paris.
+carlos captured a bulbasaur in madrid.
+pyongyang is empty: kim could not catch any pokemons.
+berlin is empty: thomas could not catch any pokemons.
+vladimir captured a venusaur in moscow.
+victor captured a charmeleon in moscow.
+leon captured a pidgey in london.
+leon captured a rattata in paris.
+carlos captured a pikachu in paris.
+leon captured a pidgey in madrid.
+thomas captured a bulbasaur in paris.
+berlin is empty: carlos could not catch any pokemons.
+victor captured a wartortle in beijing.
+berlin is empty: vladimir could not catch any pokemons.
+victor captured a charmeleon in moscow.
+victor captured a pidgeotto in beijing.
+
+*************  Trainer Report  ************
+leon
+Currently in madrid
+Budget  240   Pokecoins
+XP      1.00
+
+* Trainer's Items:
+candy    10             X 2
+potion   10             X 2
+* Trainer's Pokemons:
+1    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+2    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+3    rattata             HP    100.00
+                         CP         7
+                         LEVEL      1
+4    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+
+*************  Trainer Report  ************
+carlos
+Currently in berlin
+Budget  130   Pokecoins
+XP      1.00
+
+* Trainer's Items:
+candy    10             X 1
+candy    20             X 1
+potion   10             X 1
+* Trainer's Pokemons:
+1    bulbasaur           HP    100.00
+                         CP         5
+                         LEVEL      1
+2    pikachu             HP    100.00
+                         CP        15
+                         LEVEL      1
+
+*************  Trainer Report  ************
+kim
+Currently in pyongyang
+Budget  0     Pokecoins
+XP      1.00
+
+* Trainer's Items:
+* Trainer's Pokemons:
+
+*************  Trainer Report  ************
+thomas
+Currently in paris
+Budget  90    Pokecoins
+XP      1.00
+
+* Trainer's Items:
+* Trainer's Pokemons:
+1    bulbasaur           HP    100.00
+                         CP         5
+                         LEVEL      1
+
+*************  Trainer Report  ************
+victor
+Currently in beijing
+Budget  70    Pokecoins
+XP      1.00
+
+* Trainer's Items:
+candy    10             X 1
+candy    20             X 1
+potion   10             X 1
+potion   20             X 1
+* Trainer's Pokemons:
+1    charmeleon          HP    100.00
+                         CP        15
+                         LEVEL      1
+2    wartortle           HP    100.00
+                         CP        12
+                         LEVEL      1
+3    charmeleon          HP    100.00
+                         CP        15
+                         LEVEL      1
+4    pidgeotto           HP    100.00
+                         CP        20
+                         LEVEL      1
+
+*************  Trainer Report  ************
+vladimir
+Currently in berlin
+Budget  60    Pokecoins
+XP      1.00
+
+* Trainer's Items:
+potion   20             X 1
+* Trainer's Pokemons:
+1    venusaur            HP    100.00
+                         CP        20
+                         LEVEL      1
+
+************  Pokemon Battle  *************
+victor           		vs.		             leon
+wartortle        		   		          rattata
+12               		CP 		                7
+100.00 --> 89.50 		HP 		100.00 -->  82.00
+1      --> 2     		LVL		     1 -->      2
+1.00   --> 2.80  		XP 		  1.00 -->   2.05
+
+*************  Trainer Report  ************
+victor
+Currently in beijing
+Budget  70    Pokecoins
+XP      2.80
+
+* Trainer's Items:
+candy    10             X 1
+candy    20             X 1
+potion   10             X 1
+potion   20             X 1
+* Trainer's Pokemons:
+1    charmeleon          HP    100.00
+                         CP        15
+                         LEVEL      1
+2    wartortle           HP     89.50
+                         CP        12
+                         LEVEL      2
+3    charmeleon          HP    100.00
+                         CP        15
+                         LEVEL      1
+4    pidgeotto           HP    100.00
+                         CP        20
+                         LEVEL      1
+
+*************  Trainer Report  ************
+leon
+Currently in madrid
+Budget  240   Pokecoins
+XP      2.05
+
+* Trainer's Items:
+candy    10             X 2
+potion   10             X 2
+* Trainer's Pokemons:
+1    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+2    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+3    rattata             HP     82.00
+                         CP         7
+                         LEVEL      2
+4    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+
+************  Pokemon Battle  *************
+victor           		vs.		             leon
+wartortle        		   		          rattata
+12               		CP 		                7
+100.00 --> 78.47 		HP 		100.00 -->  49.60
+2      --> 3     		LVL		     2 -->      3
+2.80   --> 7.84  		XP 		  2.05 -->   4.20
+
+************  Pokemon Battle  *************
+victor           		vs.		             leon
+wartortle        		   		          rattata
+12               		CP 		                7
+78.47  --> 34.35 		HP 		100.00 -->   0.00
+3      --> 5     		LVL		     3 -->      5
+7.84   --> 20.94 		XP 		  4.20 -->   8.62
+leon's rattata has died in the battle.
+
+*************  Trainer Report  ************
+victor
+Currently in beijing
+Budget  70    Pokecoins
+XP      20.94
+
+* Trainer's Items:
+candy    10             X 1
+candy    20             X 1
+potion   10             X 1
+* Trainer's Pokemons:
+1    charmeleon          HP    100.00
+                         CP        15
+                         LEVEL      1
+2    blastoise           HP     34.35
+                         CP        20
+                         LEVEL      5
+3    charmeleon          HP    100.00
+                         CP        15
+                         LEVEL      1
+4    pidgeotto           HP    100.00
+                         CP        20
+                         LEVEL      1
+
+*************  Trainer Report  ************
+leon
+Currently in madrid
+Budget  30    Pokecoins
+XP      8.62
+
+* Trainer's Items:
+candy    10             X 2
+potion   10             X 1
+* Trainer's Pokemons:
+1    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+2    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+4    pidgey              HP    100.00
+                         CP        10
+                         LEVEL      1
+
+***   Stock Report   ***
+candy    20             X 2
+candy    80             X 3
+potion   10             X 4

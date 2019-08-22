@@ -1,0 +1,14 @@
+==8068== Memcheck, a memory error detector
+==8068== Copyright (C) 2002-2012, and GNU GPL'd, by Julian Seward et al.
+==8068== Using Valgrind-3.8.1 and LibVEX; rerun with -h for copyright info
+==8068== Command: ./run17 5
+==8068== 
+==8068== 
+==8068== HEAP SUMMARY:
+==8068==     in use at exit: 0 bytes in 0 blocks
+==8068==   total heap usage: 3,401 allocs, 3,401 frees, 29,464 bytes allocated
+==8068== 
+==8068== All heap blocks were freed -- no leaks are possible
+==8068== 
+==8068== For counts of detected and suppressed errors, rerun with: -v
+==8068== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 6 from 6)

@@ -1,0 +1,22 @@
+==7318== Memcheck, a memory error detector
+==7318== Copyright (C) 2002-2012, and GNU GPL'd, by Julian Seward et al.
+==7318== Using Valgrind-3.8.1 and LibVEX; rerun with -h for copyright info
+==7318== Command: ./run9 -p pokedex.in -e evolutions.in -l locations.in -i test3.in -o /dev/null
+==7318== 
+Error: requested item is out of stock.
+Error: requested item is out of stock.
+Error: invalid argument.
+Error: trainer does not exist.
+Error: Pokemon deos not exist.
+Error: Pokemon deos not exist.
+Error: Pokemon deos not exist.
+Error: Pokemon deos not exist.
+==7318== 
+==7318== HEAP SUMMARY:
+==7318==     in use at exit: 0 bytes in 0 blocks
+==7318==   total heap usage: 1,095 allocs, 1,095 frees, 21,519 bytes allocated
+==7318== 
+==7318== All heap blocks were freed -- no leaks are possible
+==7318== 
+==7318== For counts of detected and suppressed errors, rerun with: -v
+==7318== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 6 from 6)

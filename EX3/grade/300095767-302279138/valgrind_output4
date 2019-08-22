@@ -1,0 +1,20 @@
+==6743== Memcheck, a memory error detector
+==6743== Copyright (C) 2002-2012, and GNU GPL'd, by Julian Seward et al.
+==6743== Using Valgrind-3.8.1 and LibVEX; rerun with -h for copyright info
+==6743== Command: ./run4 -p o_pokedex.in -e o_evolutions.in -l locations.in -i test4.in -o /dev/null
+==6743== 
+Error: Pokemon's HP is at its maximum value.
+Error: cannot find any available items.
+Error: Pokemon deos not exist.
+Error: Pokemon deos not exist.
+Error: Pokemon deos not exist.
+Error: Pokemon deos not exist.
+==6743== 
+==6743== HEAP SUMMARY:
+==6743==     in use at exit: 0 bytes in 0 blocks
+==6743==   total heap usage: 1,131 allocs, 1,131 frees, 21,979 bytes allocated
+==6743== 
+==6743== All heap blocks were freed -- no leaks are possible
+==6743== 
+==6743== For counts of detected and suppressed errors, rerun with: -v
+==6743== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 6 from 6)
